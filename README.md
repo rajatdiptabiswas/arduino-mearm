@@ -35,7 +35,7 @@ A small hackable robotic arm with 4 degrees of freedom from Mime Industries, bui
 See also the list of [contributors](https://github.com/rajatdiptabiswas/arduino-mearm/contributors) who participated in this project.
 
 
-## Acknowledgments
+## Acknowledgements
 
 * [Hacktronics India](https://hacktronics.co.in/robotics-kits/mearm-latest-v10-transparent-robot-arm-kit-supports-raspberry-pi-and-arduino?search_query=mearm&results=1)
 * [DroneBot Workshop](https://dronebotworkshop.com)
